@@ -1,15 +1,15 @@
-// import HomepageFour from "./HomepageFour";
-import Homepageone from "./Homepageone";
-// import Homepagethree from "./Homepagethree";
+// import Homepageone from "./Homepageone";
 // import HomepageTwo from "./HomepageTwo";
+// import Homepagethree from "./Homepagethree";
+import HomepageFour from "./HomepageFour";
 
 function App() {
   return (
     <>
-      <Homepageone/>
+      {/* <Homepageone/> */}
       {/* <HomepageTwo/> */}
       {/* <Homepagethree/> */}
-      {/* <HomepageFour/> */}
+      <HomepageFour/>
     </>
   );
 }
